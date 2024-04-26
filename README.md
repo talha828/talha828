@@ -1,4 +1,4 @@
-[![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.daily.co/blog/content/images/size/w2000/2023/07/Flutter-feature.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Talha Iqbal</h1>
 <h3 align="center">Code Enthusiast Eager to Collaborate and Contribute</h3>
