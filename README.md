@@ -1,6 +1,3 @@
-
-![flutter-for-cross-platform-app-development](https://github.com/user-attachments/assets/9eeb89e6-c534-4cda-8b08-3543a0a6441c)
-
 # Hi 👋, I'm Talha Iqbal
 
 ### Code Enthusiast 🚀 Eager to Collaborate and Contribute 🌍
@@ -24,8 +21,8 @@ My core skills span **Flutter, Dart, AI, and data science** 📊, and I take pri
 - **Email**: [talha.developer.01@gmail.com](mailto:talha.developer.01@gmail.com)
 - 💬 **Ask me about**: Product Design and Development
 
-### ⚡ Fun Fact
-Code and Play 🎮 – When I'm not coding, you can find me gaming or brainstorming ideas for the next big app!
+### ⚡ Lazy Programming Philosophy
+Write what you need and no more, but when you write it, do it right.
 
 I'm looking forward to connecting with you and discussing potential projects! 😊
 
