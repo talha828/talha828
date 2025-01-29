@@ -1,40 +1,61 @@
-# Hi 👋, I'm Talha Iqbal
+# Hi there, I'm Talha Iqbal 👋
 
-### Code Enthusiast 🚀 Eager to Collaborate and Contribute 🌍
+I'm a **Mobile Application Developer** and a **Security Learner** based in Karachi, Pakistan. I'm currently pursuing my Bachelor's in Computer Science (BSCS) at DHA Suffa University and am an active member of the **Google Developer Student Club (GDSC)**. I specialize in **Flutter** and **Python** development, with experience in building scalable mobile and web applications, automation scripts, and AI-integrated solutions.
 
-Welcome! I’m **Talha Iqbal**, a skilled **Flutter developer** with over **3 years of experience**. Through my journey, I’ve had the opportunity to work with three different companies, each enhancing my skills and deepening my knowledge.
+## 🚀 Recent Projects
 
-### 🎯 Professional Highlights
-- Completed **7 successful projects on Fiverr** 🛠️
-- Active member of **Google Developer Student Club** 💻, where I stay updated with the latest tech through workshops and events.
-- **Deployed 13+ apps** on the Play Store and Apple Store 📲, with positive feedback across 22+ projects.
+Here are some of my recent projects:
 
-My core skills span **Flutter, Dart, AI, and data science** 📊, and I take pride in delivering **high-quality work** that aligns with my client's needs. I’m detail-oriented and dedicated to achieving the best results.
+### 1. **Reel-To-Blog-Automation**
+- **Description**: A Python script that converts YouTube Shorts videos into blog posts automatically. It downloads the video, extracts audio, transcribes it, and generates a blog using the Ollama language model.
+- **Tech Stack**: Python, Vosk, AI, Blogging Automation
+- **Link**: [Reel-To-Blog](https://github.com/talha828/Reel-To-Blog)
 
-### 💼 Current Projects & Goals
-- 🔭 **Currently working on**: Freelance Market projects
-- 🌱 **Learning**: AI and ML for future applications
-- 👯 **Looking to collaborate on**: Open source projects to expand community contributions
-- 📝 **Read my articles on** [Medium](https://medium.com/@talha.developer.01)
+### 2. **Bill-Counter**
+- **Description**: A Flutter-based Android app designed to help small businesses efficiently create, save, and manage customer profiles.
+- **Tech Stack**: Flutter, Firebase Auth
+- **Link**: [Bill-Counter](https://github.com/talha828/Bill-Counter)
 
-### 📫 Get in Touch
-- **Email**: [talha.developer.01@gmail.com](mailto:talha.developer.01@gmail.com)
-- 💬 **Ask me about**: Product Design and Development
+### 3. **Pushup-Counter**
+- **Description**: An AI-integrated Flutter app that accurately detects and tracks push-ups using machine learning techniques.
+- **Tech Stack**: Flutter, AI, Machine Learning
+- **Link**: [Pushup-Counter](https://github.com/talha828/pushup-counter)
 
-### ⚡ Lazy Programming Philosophy
-Write what you need and no more, but when you write it, do it right.
+### 4. **MeterScanPro**
+- **Description**: A robust application developed for Shershah Water Supplier, enabling accurate water readings, real-time theft detection, and secure data management.
+- **Tech Stack**: Flutter, AI, Firebase
+- **Link**: [MeterScanPro](https://github.com/talha828/MeterScanPro)
 
-I'm looking forward to connecting with you and discussing potential projects! 😊
+### 5. **Cyber-Solution-Vulnerability-Scanner**
+- **Description**: A plugin-based vulnerability scanner with threading support, designed to detect low-hanging bugs on a mass scale.
+- **Tech Stack**: Python, Cybersecurity
+- **Link**: [Cyber-Solution-Vulnerability-Scanner](https://github.com/talha828/Cyber-Solution-Vulnerability-Scanner)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talha-iqbal-371aa5229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-iqbal-371aa5229/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14902675/talha-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14902675/talha-iqbal" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/talhadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/talhadev" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/talhaiqbal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/talhaiqbal123" height="30" width="40" /></a>
-<a href="https://medium.com/@talha.developer.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@talha.developer.01" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Languages**: Dart, Python, JavaScript
+- **Frameworks**: Flutter, Flask, React
+- **Databases**: Firebase, PostgreSQL, MySQL
+- **Tools**: Git, Docker, Selenium
 
+## 📫 Let's Connect
+
+- **Portfolio Website**: [talha-igbal.web.app](https://talha-igbal.web.app/)
+- **GitHub**: [talha828](https://github.com/talha828)
+- **LinkedIn**: [Talha Iqbal](https://www.linkedin.com/in/talha-iqbal-371aa5229/)
+- **Stack Overflow**: [Talha Iqbal](https://stackoverflow.com/users/14902675/talha-iqbal)
+- **Medium**: [@talha.developer.01](https://medium.com/@talha.developer.01)
+
+## 🌟 Achievements
+
+- **YOLO**: Earned for pushing through challenges.
+- **Starstruck**: Earned for receiving stars on repositories.
+- **Pull Shark x2**: Earned for contributing to open-source projects.
+
+## 📊 GitHub Stats
+
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha828&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions! 😄
