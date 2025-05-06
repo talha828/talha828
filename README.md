@@ -15,34 +15,39 @@ Building solutions that blend creativity with tech. Core Team @ GDSC-DSU 🚀
 
 ## 🚀 Featured Projects
 
-**pushup-counter**  
-[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/pushup-counter?style=flat)](https://github.com/talha828/pushup-counter)  
+**pushup-counter**  [![GitHub Last Commit](https://img.shields.io/github/stars/talha828/pushup-counter?style=flat)](https://github.com/talha828/pushup-counter) 
+ 
 *Computer Vision Fitness Assistant*  
 - Real-time MediaPipe pose estimation
 - 98.4% motion detection accuracy
 - Progressive Web App implementation
 
-**Bill-Counter**  
-[![GitHub Stars](https://img.shields.io/github/stars/talha828/Bill-Counter?style=flat)](https://github.com/talha828/Bill-Counter)  
+**flutter_resume_template**  [![GitHub License](https://img.shields.io/github/stars/JordyHers-org/flutter_resume_template?style=flat)](https://github.com/JordyHers-org/flutter_resume_template) 
+  
+*resume teampalte for job seekers
+- Dynamic theme switching (Light/Dark/Professional)
+- Multi-platform export (iOS/Android/Web/Desktop)
+- Real-time PDF preview with scroll sync
+- LinkedIn/GitHub profile integration
+- PDF/DOCX export with ATS optimization
+
+**Bill-Counter**  [![GitHub Stars](https://img.shields.io/github/stars/talha828/Bill-Counter?style=flat)](https://github.com/talha828/Bill-Counter)  
+
 *Enterprise Retail Management System*  
 - Production-grade billing solution with Firebase backend
 - Customizable customer profile management
 - CI/CD implemented for zero-downtime updates
 
-**Cheatboart**  
-[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/Cheatboart?style=flat)](https://github.com/talha828/Cheatboart)  
-*Developer Knowledge Accelerator*  
-- AI-curated programming cheat sheets
-- Multi-language support (Python/JS/Java)
-- 1.2k+ weekly active developers
-- Markdown/PDF export functionality
+**Cheatboard**  [![GitHub Last Commit](https://img.shields.io/github/stars/talha828/Cheatboard?style=flat)](https://github.com/talha828/Cheatboart)  
 
-**MeterScanPro**  
- [![GitHub License](https://img.shields.io/github/stars/talha828/MeterScanPro?style=flat)](https://github.com/talha828/MeterScanPro)  
-*Industrial Infrastructure Monitoring Solution*  
-- Anomaly detection using OpenCV
-- AWS IoT Core integration
-- 23% efficiency improvement in pilot deployment
+AI-Powered Quiz Solver for Developers
+
+- Instant AI Answers
+- Retrieve quiz solutions via AI chatbot in one click, Zero-Trace Privacy
+- No login required, no history saved
+- Cross-Platform Ready Flutter-based Chrome extension (Android/iOS/Web)
+- Dev-Friendly Workflow Simple build process with HTML/CSP support
+- Open Collaboration Community-driven improvements via GitHub
 
 ---
 
