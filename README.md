@@ -15,18 +15,18 @@ Building solutions that blend creativity with tech. Core Team @ GDSC-DSU 🚀
 
 ## 🚀 Featured Projects
 
-**pushup-counter**  
+### pushup-counter  
 
-[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/pushup-counter?style=flat)](https://github.com/talha828/pushup-counter) 
+[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/pushup-counter?style=style=plastic)](https://github.com/talha828/pushup-counter) 
  
 *Computer Vision Fitness Assistant*  
 - Real-time MediaPipe pose estimation
 - 98.4% motion detection accuracy
 - Progressive Web App implementation
 
-**flutter_resume_template**  
+### Flutter Resume Template App
 
-[![GitHub License](https://img.shields.io/github/stars/JordyHers-org/flutter_resume_template?style=flat)](https://github.com/JordyHers-org/flutter_resume_template) 
+[![GitHub License](https://img.shields.io/github/stars/JordyHers-org/flutter_resume_template?style=style=plastic)](https://github.com/JordyHers-org/flutter_resume_template) 
   
 *Resume template for job seekers*
 - Dynamic theme switching (Light/Dark/Professional)
@@ -35,7 +35,7 @@ Building solutions that blend creativity with tech. Core Team @ GDSC-DSU 🚀
 - LinkedIn/GitHub profile integration
 - PDF/DOCX export with ATS optimization
 
-**Bill-Counter**  
+### Bill-Counter 
 
 [![GitHub Stars](https://img.shields.io/github/stars/talha828/Bill-Counter?style=flat)](https://github.com/talha828/Bill-Counter)  
 
@@ -44,7 +44,7 @@ Building solutions that blend creativity with tech. Core Team @ GDSC-DSU 🚀
 - Customizable customer profile management
 - CI/CD implemented for zero-downtime updates
 
-**Cheatboard**  
+### Cheatboard
 
 [![GitHub Last Commit](https://img.shields.io/github/stars/talha828/Cheatboard?style=flat)](https://github.com/talha828/Cheatboart)  
 
