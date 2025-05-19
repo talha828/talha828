@@ -65,8 +65,10 @@ All of them are open-source — lightweight, cross-platform, and community-first
 ---
 
 ## 📫 Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:talha.developer.01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talha-iqbal-371aa5229/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@talha.developer.01)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/14902675/talha-iqbal)
+
 
 *🔍 Exploring the intersection of AI and cybersecurity. Always open to collabs!*
