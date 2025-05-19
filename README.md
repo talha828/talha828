@@ -13,55 +13,54 @@ Building solutions that blend creativity with tech. Core Team @ GDSC-DSU 🚀
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 I Build Thoughtful Tools with Flutter, AI, and Purpose
 
-### pushup-counter  
+I’m a developer focused on building meaningful software — tools that work offline, respect privacy, and solve real-life problems. From AI chatbots trained on national law, to fitness apps that see your motion, to zero-trace quiz solvers — I like building things that feel useful from day one.
 
-[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/pushup-counter?style=style=plastic)](https://github.com/talha828/pushup-counter) 
- 
-*Computer Vision Fitness Assistant*  
-- Real-time MediaPipe pose estimation
-- 98.4% motion detection accuracy
-- Progressive Web App implementation
+Whether it's cross-platform mobile apps, serverless APIs, or embedded AI, my goal is always the same: make something that just works, and works well.
 
-### Flutter Resume Template App
+---
 
-[![GitHub License](https://img.shields.io/github/stars/JordyHers-org/flutter_resume_template?style=style=plastic)](https://github.com/JordyHers-org/flutter_resume_template) 
-  
-*Resume template for job seekers*
-- Dynamic theme switching (Light/Dark/Professional)
-- Multi-platform export (iOS/Android/Web/Desktop)
-- Real-time PDF preview with scroll sync
-- LinkedIn/GitHub profile integration
-- PDF/DOCX export with ATS optimization
+## 🚀 What I Do
+- 🔍 AI-powered legal assistants for Pakistan’s Constitution, Acts, and case law
+- 📱 Flutter apps for everything: billing, resumes, Chrome extensions, quiz tools
+- 🧠 LLM integration (Ollama, RAG, local inference, embeddings, FAISS)
+- 📦 Dev automation, CI/CD pipelines, open-source tooling
+- 🔐 Security-aware systems with privacy-first defaults
 
-### Bill-Counter 
+---
 
-[![GitHub Stars](https://img.shields.io/github/stars/talha828/Bill-Counter?style=flat)](https://github.com/talha828/Bill-Counter)  
+## 🌟 A Bit About My Projects
+I’ve created over **15 open-source tools** and earned more than **50+ GitHub stars** from a growing community. Some of my favorite work includes:
+- A pushup counter powered by MediaPipe and computer vision **star 20+**
+- An ATS-friendly resume builder with real-time preview and export **star 20+**
+- A billing system with Firebase and CI/CD
+- An AI-powered quiz solver with zero trace
 
-*Enterprise Retail Management System*  
-- Production-grade billing solution with Firebase backend
-- Customizable customer profile management
-- CI/CD implemented for zero-downtime updates
+All of them are open-source — lightweight, cross-platform, and community-first.
 
-### Cheatboard
+---
 
-[![GitHub Last Commit](https://img.shields.io/github/stars/talha828/Cheatboard?style=flat)](https://github.com/talha828/Cheatboart)  
+## 🏆 Highlights
+- ⭐ 200+ GitHub stars across open projects
+- 🤖 Contributor to Homebrew, Spotube, and dev-focused tools
+- 🧠 GDSC Lead '24, OWASP Certified, and Bug Bounty Hunter
+- 🎓 AI + Mobile Dev / Graduated at DHA Suffa University
 
-*AI-Powered Quiz Solver for Developers*
-- Instant AI Answers
-- Retrieve quiz solutions via AI chatbot in one click, Zero-Trace Privacy
-- No login required, no history saved
-- Cross-Platform Ready Flutter-based Chrome extension (Android/iOS/Web)
-- Dev-Friendly Workflow Simple build process with HTML/CSP support
-- Open Collaboration Community-driven improvements via GitHub
+---
+
+## 💡 Philosophy
+- 🔒 Privacy is a feature, not an option
+- ⚡ Fast apps win hearts
+- 🎯 Simplicity beats complexity
+- 💬 Code should talk like humans do
 
 ---
 
 ## 🏆 Achievements
 - Authored 15+ open-source tools with **200+ stars** collectively
-- Contributed to [Homebrew](https://github.com/Homebrew/brew) & [Spotube](https://github.com/KRTirtho/spotube)
-- **GDSC Lead '24** | **OWASP Certified** | **Bug Bounty Hunter**
+- Contributed to & [Spotube](https://github.com/KRTirtho/spotube) and dev-focused tools
+- **GDSC Lead '24** | **OWASP Certified** | **Bug Bounty Hunter** | **Data Science**
 
 ---
 
